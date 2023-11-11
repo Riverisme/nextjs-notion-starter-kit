@@ -6,11 +6,11 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 871bfda916d54fe3908c1055f7b1c70c?pvs=4,
+  rootNotionSpaceId: River-Tong-8ebaf23125dc4de1b36d92b714a59f22,
 
   // basic site info (required)
   name: 'River Tong的个人网站',
-  domain: 'https://www.notion.so/871bfda916d54fe3908c1055f7b1c70c?pvs=4',
+  domain: 'https://confirmed-ocelot-fa6.notion.site/River-Tong-8ebaf23125dc4de1b36d92b714a59f22',
   author: 'River Tong',
 
   // open graph metadata (optional)
